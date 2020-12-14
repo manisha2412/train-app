@@ -1,0 +1,36 @@
+
+.heading {
+    display: flex;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    padding: 2rem;
+    justify-content: center
+}
+
+.showTrainContainer
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.showTrainSection
+{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-bottom: 20px;
+
+}
+.showTrainBtn
+{
+    display: flex;
+    width: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.addTrainContainer{
+    padding: 3rem 3rem 3rem 3rem;
+
+}
